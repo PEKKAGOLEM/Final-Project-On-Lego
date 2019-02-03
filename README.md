@@ -1,10 +1,8 @@
 # Final Project On Lego
-Sales of Lego sets based on movie releases
+Number of LEGO sets released based on movie releases during that year
 
 ## Project overview
-This project will be looking at the sales of different Lego sets based on the movies that came out recently during that time. For example, this project will be seeing the prices of *The Lego Movie* sets after the *The Lego Movie* released, or the sales of *Marvel Superheroes* sets after *Avengers: Infinity War* came out.
-
-
+This project will be looking at the number of LEGO sets released based on specific movie releases from certain years. For example, it would find the number of *Marvel Superheroes* sets after movie releases of a certain year.
 
 ## Used datasets
 All of the datasets from this project comes from different datasets that people created in a data-science website called **Kaggle.com**.
