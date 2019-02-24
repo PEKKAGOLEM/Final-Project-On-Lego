@@ -8,8 +8,8 @@ This project will be looking at the number of LEGO sets released based on specif
 Most of the datasets from this project comes from different datasets that people created in a data-science website called [**Kaggle.com**](https://www.kaggle.com).
 
 **If** you want to see the data used, here are the links:
-* https://www.kaggle.com/mterzolo/lego-sets
 * https://github.com/seankross/lego
+* https://en.wikipedia.org/wiki/List_of_films_based_on_Marvel_Comics
 
 ***
 ## Motivation
@@ -23,3 +23,7 @@ Marvel is one of the biggest movie franchises in the world. It had released at l
 ***
 ## Contributors
 Christopher Lee (Me and only me)
+***
+
+## Data Visualization
+For the dataset of Marvel movies and the dataset of Marvel Lego sets, I first plotted line plots for each of the datasets (one for Marvel movies, and one for Marvel Lego sets). Then
